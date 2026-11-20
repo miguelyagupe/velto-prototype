@@ -1,0 +1,9 @@
+{
+  "proofs": [
+    {
+      "id": "terminal",
+      "path": "terminal.cast",
+      "claim": "Actual recorded terminal inputs and outputs; see terminal_events.json. Controlled invalid input is intentional."
+    }
+  ]
+}

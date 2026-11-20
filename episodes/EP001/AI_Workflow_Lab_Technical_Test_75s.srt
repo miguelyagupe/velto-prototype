@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:05,152
+This technical test uses real commands and
+synthetic sales data.
+
+2
+00:00:05,182 --> 00:00:10,394
+The first calculation returns twelve thousand
+across six monthly entries.
+
+3
+00:00:10,424 --> 00:00:15,715
+Here is the exact change: June increases from
+three thousand to forty five hundred.
+
+4
+00:00:15,745 --> 00:00:21,040
+Running the calculation again produces a total
+of thirteen thousand five hundred.
+
+5
+00:00:21,070 --> 00:00:26,366
+We deliberately supply invalid input. The
+program rejects it with an error.
+
+6
+00:00:26,396 --> 00:00:31,613
+Restoring the original data returns the original
+total. The result is reproducible.
+
+7
+00:00:31,643 --> 00:00:37,380
+Sorting changes the order of the bars, while
+preserving the underlying values.
+
+8
+00:00:37,410 --> 00:00:43,239
+The filter keeps three months. Their combined
+total is seven thousand five hundred.
+
+9
+00:00:43,269 --> 00:00:49,398
+This structured output contains the same
+calculation, ready for another tool to consume.
+
+10
+00:00:49,428 --> 00:00:54,416
+A separate test checks the original app
+calculations, invalid input and filtering.
+
+11
+00:00:54,446 --> 00:00:58,970
+The production engine exposes three operations:
+validate the timeline, render, and check
+quality.
+
+12
+00:00:59,000 --> 00:01:05,407
+Fourteen tests pass here, including an actual
+video render, decode and audio check.
+
+13
+00:01:05,437 --> 00:01:10,246
+The encoder is FFmpeg. This footage replays a
+real recorded terminal session.
+
+14
+00:01:10,276 --> 00:01:15,370
+The source hashes preserve provenance. This
+validates components, not a finished autonomous
+channel.

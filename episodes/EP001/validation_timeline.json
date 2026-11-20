@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "narration": "validation_voice.wav",
+  "captions": "validation_voice.srt",
+  "proofs": "proofs.json",
+  "scenes": [
+    {
+      "source": "terminal_capture.mp4",
+      "in": 0,
+      "out": 5.182,
+      "destination": 0,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 5.182,
+      "out": 10.424,
+      "destination": 5.182,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal",
+      "crop": {
+        "x": 40,
+        "y": 120,
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 10.424,
+      "out": 15.745,
+      "destination": 10.424,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 15.745,
+      "out": 21.07,
+      "destination": 15.745,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal",
+      "crop": {
+        "x": 40,
+        "y": 120,
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 21.07,
+      "out": 26.396,
+      "destination": 21.07,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal",
+      "crop": {
+        "x": 40,
+        "y": 120,
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 26.396,
+      "out": 31.643,
+      "destination": 26.396,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 31.643,
+      "out": 37.41,
+      "destination": 31.643,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 37.41,
+      "out": 43.269,
+      "destination": 37.41,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal",
+      "crop": {
+        "x": 40,
+        "y": 120,
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 43.269,
+      "out": 49.428,
+      "destination": 43.269,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 49.428,
+      "out": 54.446,
+      "destination": 49.428,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 54.446,
+      "out": 59.0,
+      "destination": 54.446,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 59.0,
+      "out": 65.437,
+      "destination": 59.0,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 65.437,
+      "out": 70.276,
+      "destination": 65.437,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    },
+    {
+      "source": "terminal_capture.mp4",
+      "in": 70.276,
+      "out": 75.4,
+      "destination": 70.276,
+      "license": "Original real terminal session; synthetic data",
+      "proof_id": "terminal"
+    }
+  ]
+}

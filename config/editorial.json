@@ -1,0 +1,28 @@
+{
+  "series": "I Tried Making AI Do...",
+  "language": "en",
+  "episode_duration_seconds": {
+    "minimum": 300,
+    "maximum": 420,
+    "target": 360
+  },
+  "shorts_per_episode": {
+    "minimum": 2,
+    "maximum": 3
+  },
+  "episodes_per_week_after_validation": 2,
+  "capture": {
+    "preferred": "dedicated_remote_worker",
+    "personal_computer_required": false,
+    "terminal_replay": "technical validation only; not primary channel visual style"
+  },
+  "higgsfield": {
+    "role": "optional complementary assets",
+    "enabled": false,
+    "requires_budget_approval": true
+  },
+  "publication": {
+    "automatic": false,
+    "requires_explicit_approval": true
+  }
+}
